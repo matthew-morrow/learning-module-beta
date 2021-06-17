@@ -1,5 +1,7 @@
 # Implementing Google Analytics 4 in Learning Modules: A Guide
 
+This readme is a guide for implementing GA4 analytics tracking of events in learning modules found on the ECLKC site. Events are user interactions with content that can be measured independently from a web-page or screen load. Events in a learning module such as Module Start, Module Finish, Slide View, and Object Interactions on Slides are examples that can be implemented using the information presented below.
+
 ## Adding the Google Analytics (gtag.js) tag
 
 Paste the snippet below right before the `<\head>` tag in the story.html file provided by Articulate after publishing the learning module.
