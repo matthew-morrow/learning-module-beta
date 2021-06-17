@@ -40,9 +40,13 @@ Replace the `[google-analytics-id]` below with the appropriate GA4 property ID p
 
 ![triggers](https://user-images.githubusercontent.com/76028080/122458959-60b16700-cf7e-11eb-8aa1-176f3cd526a9.png)
 
-![object_trigger](https://user-images.githubusercontent.com/76028080/122459097-83438000-cf7e-11eb-9a99-68cb14feadee.jpg)
+Example of Slide Trigger using Screen View Event
 
 ![slide_trigger](https://user-images.githubusercontent.com/76028080/122459085-80488f80-cf7e-11eb-9e12-34f923c0f57f.jpg)
+
+Example of Object Trigger using Select Content Event
+
+![object_trigger](https://user-images.githubusercontent.com/76028080/122459097-83438000-cf7e-11eb-9a99-68cb14feadee.jpg)
 
 ## Screen/Slide View Events
 
