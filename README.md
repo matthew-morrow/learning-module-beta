@@ -38,7 +38,11 @@ Replace the `[google-analytics-id]` below with the appropriate GA4 property ID p
 |Slide Triggers|Slide triggers always appear at the top of the Triggers panel. They often rely on the timeline of the slide or layer—e.g., when the timeline starts, ends, or reaches a certain point.|screen_view|*
 |Object Triggers|Object triggers apply to objects on the slide (images, characters, text boxes, etc.), and they generally occur when the learner performs an action, such as clicking a button, hovering over a hot spot, or dragging an object. Object triggers can also occur when other events take place—e.g., when the state of another object changes, an animation completes, or an object leaves the slide.|select_content|
 
-![Trigger Types](https://articulate-heroes.s3.amazonaws.com/uploads/rte/ypzgoumw_trigger-locations-3.png)
+![triggers](https://user-images.githubusercontent.com/76028080/122458959-60b16700-cf7e-11eb-8aa1-176f3cd526a9.png)
+
+![object_trigger](https://user-images.githubusercontent.com/76028080/122459097-83438000-cf7e-11eb-9a99-68cb14feadee.jpg)
+
+![slide_trigger](https://user-images.githubusercontent.com/76028080/122459085-80488f80-cf7e-11eb-9e12-34f923c0f57f.jpg)
 
 ## Screen/Slide View Events
 
