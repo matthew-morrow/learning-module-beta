@@ -84,7 +84,9 @@ Sample Code:
 gtag('event', 'level_start', {level_name:'Google Analytics Module - Section One'});
 ```
 
-**Level End**: *[Google Documentation](https://developers.google.com/gtagjs/reference/ga4-events#level_end)*
+### **Level End**
+
+This event signifies that a player has finished a level. *[Google Documentation](https://developers.google.com/gtagjs/reference/ga4-events#level_end)*
 
 This event signifies that a player has started a level.
 
